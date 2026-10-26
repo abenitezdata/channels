@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:55,DSports (Opción 1 - SD)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
+#EXTINF:0,DSports (Opción 2 - HD)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/324.m3u8
+#EXTINF:0,DSports (Opción 3 - Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:0,DSports HD (Opción 4)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1144.m3u8
+#EXTINF:0,DSports 2 (Opción 1)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/315.m3u8
+#EXTINF:0,DSports 2 (Opción 2 - HD)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/317.m3u8
+#EXTINF:0,DSports + (Opción 1)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/314.m3u8
+#EXTINF:23,Tigo Sports (Paraguay - feed alternativo)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:11,Sky Sports LaLiga (Opción 1 - LA LIGA
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:0,Sky Sports LaLiga (Opción 2)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:0,Sky Sports LaLiga (Opción 3)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:0,Sky Sports LaLiga (Opción 4)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://186.33.1.71:8000/play/a03u/index.m3u8
+#EXTINF:0,Sky Sports LaLiga (Opción 5)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://186.148.184.22:8000/play/a0i6/index.m3u8
+#EXTINF:0,DAZN Heldinnen (Fútbol Femenino & Champions League)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:11,ESPN Premium (Argentina - ESPN PREMIUN
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:40,ESPN Premium HD (Argentina - Señal 2)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
+#EXTINF:0,ESPN Premium (Alternativa 3)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
+#EXTINF:0,ESPN Premium HD (Alternativa 4)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://181.119.84.106:8000/play/a0qw/index.m3u8
+#EXTINF:40,ESPN (Argentina)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
+#EXTINF:40,ESPN (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/368.m3u8
+#EXTINF:39,ESPN HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8
+#EXTINF:11,ESPN HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a09k/index.m3u8?hls
+#EXTINF:40,ESPN (Colombia)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
+#EXTINF:0,ESPN (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/401.m3u8
+#EXTINF:0,ESPN (Chile)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
+#EXTINF:0,ESPN (Perú)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/375.m3u8
+#EXTINF:0,ESPN 2 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/372.m3u8
+#EXTINF:0,ESPN 2 (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8
+#EXTINF:0,ESPN 2 HD (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a05c/index.m3u8?hls
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/386.m3u8
+#EXTINF:0,ESPN 3 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1127.m3u8
+#EXTINF:0,ESPN 3 (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1110.m3u8
+#EXTINF:0,ESPN 3 HD (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a05d/index.m3u8?hls
+#EXTINF:0,ESPN 4 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1069.m3u8
+#EXTINF:0,ESPN 4 HD (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a08p/index.m3u8?hls
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1104.m3u8
+#EXTINF:0,ESPN 5 HD (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a06j/index.m3u8?hls
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1105.m3u8
+#EXTINF:0,ESPN 6 HD (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a05e/index.m3u8?hls
+#EXTINF:0,ESPN 7 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8
+#EXTINF:0,ESPN 7 (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
+#EXTINF:0,ESPN Deportes
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8
+#EXTINF:0,ESPN Extra / Plus
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/404.m3u8
+#EXTINF:0,ESPN HD (EE. UU.)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:0,ESPN 2 HD (EE. UU.)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:0,Fox Sports (Argentina - Señal 1)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:0,Fox Sports Sur
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/465.m3u8
+#EXTINF:0,Fox Sports HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/454.m3u8
+#EXTINF:0,Fox Sports Premium HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/463.m3u8
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/461.m3u8
+#EXTINF:0,Fox Sports Premium (Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a08u/index.m3u8?hls
+#EXTINF:0,Fox Sports 1 HD (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/452.m3u8
+#EXTINF:0,Fox Sports 1 (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/456.m3u8
+#EXTINF:0,Fox Sports 1 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/435.m3u8
+#EXTINF:0,Fox Sports 1 (EE. UU.)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:0,Fox Sports 2 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/439.m3u8
+#EXTINF:0,Fox Sports 2 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/436.m3u8
+#EXTINF:0,Fox Sports 2 (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/441.m3u8
+#EXTINF:0,Fox Sports 2 (Chile)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1123.m3u8
+#EXTINF:0,Fox Sports 2 (USA Alternativa)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+#EXTINF:0,Fox Sports 3 HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/446.m3u8
+#EXTINF:0,Fox Sports 3 (Sur)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/468.m3u8
+#EXTINF:0,Fox Sports 3 (México)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/448.m3u8
+#EXTINF:0,Fox + Premier Liga
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
