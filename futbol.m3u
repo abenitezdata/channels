@@ -133,3 +133,5 @@ http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:0,Win+ Fútbol (Colombia)
 http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:0 type="playlist",Partidos EN VIVO de hoy (Disney+ y más)
+https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8
