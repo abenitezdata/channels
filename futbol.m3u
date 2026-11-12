@@ -5,8 +5,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1144.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/324.m3u8
 #EXTINF:0,DSports (Opción 3 - SD)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
-#EXTINF:0,DSports (Opción 4 - lenta)
-http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:0,DSports 2 (Opción 1)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/315.m3u8
 #EXTINF:0,DSports 2 (Opción 2 - HD)
@@ -53,8 +51,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8
 #EXTINF:0,ESPN HD (Alternativa)
 http://190.61.101.11:7050/play/a09k/index.m3u8?hls
-#EXTINF:0,ESPN (Perú - lenta)
-http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
 #EXTINF:0,ESPN 2 HD (México)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8
 #EXTINF:0,ESPN 2 HD (Opción 2)
@@ -83,8 +79,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1105.m3u8
 http://190.61.101.11:7050/play/a05e/index.m3u8?hls
 #EXTINF:0,ESPN 7 (Alternativa)
 http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
-#EXTINF:0,ESPN 7 HD (lenta)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8
 #EXTINF:0,ESPN Deportes
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8
 #EXTINF:0,ESPN Extra / Plus
@@ -103,8 +97,6 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/463.m3u8
 #EXTINF:0,Fox Sports Premium
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/461.m3u8
-#EXTINF:0,Fox Sports Premium (Alternativa - lenta)
-http://190.61.101.11:7050/play/a08u/index.m3u8?hls
 #EXTINF:0,Fox Sports 1 (Sur)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/435.m3u8
 #EXTINF:0,Fox Sports 1 (EE. UU.)
@@ -119,8 +111,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/436.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/439.m3u8
 #EXTINF:0,Fox Sports 2 (USA Alternativa)
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
-#EXTINF:0,Fox Sports 2 (México - lenta)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/441.m3u8
 #EXTINF:0,Fox Sports 3 (Sur)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/468.m3u8
 #EXTINF:0,Fox Sports 3 HD
@@ -131,7 +121,9 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/448.m3u8
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 #EXTINF:0,beIN Sports XTRA en Español
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:0,beIN Sports XTRA (Opción 2)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:0,beIN Sports USA (fútbol)
+https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:0,Win+ Fútbol (Colombia)
 http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:0 type="playlist",Partidos EN VIVO de hoy (Disney+ y más)
-https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8
